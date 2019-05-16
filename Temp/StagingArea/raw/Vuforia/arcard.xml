@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cardgong" size="500.000000 826.446289" />
+    <ImageTarget name="cardkarakatau" size="500.000000 824.175842" />
+    <ImageTarget name="cardtapis" size="500.000000 824.175842" />
+    <ImageTarget name="cardperisai" size="500.000000 826.446289" />
+    <ImageTarget name="cardbadik" size="500.000000 824.175842" />
+    <ImageTarget name="arcardGong" size="1.000000 1.660167" />
+    <ImageTarget name="arcardKrakatau" size="1.000000 1.655556" />
+    <ImageTarget name="arcardTapis" size="1.000000 1.655556" />
+    <ImageTarget name="arcardPerisai" size="1.000000 1.660167" />
+    <ImageTarget name="arcardBadik" size="1.000000 1.655556" />
+  </Tracking>
+</QCARConfig>
